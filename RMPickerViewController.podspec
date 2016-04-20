@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "RMPickerViewController"
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "7.0"
   s.version      = "2.0.3"
   s.summary      = "This is an iOS control for selecting something using UIPickerView in a UIActionSheet like fashion"
   s.homepage     = "https://github.com/CooperRS/RMPickerViewController"
